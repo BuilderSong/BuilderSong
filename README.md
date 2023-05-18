@@ -23,7 +23,7 @@ Here are some of the technologies and skills I work with:
 - Security: Identity and Access Management (IAM), Security Groups, Encryption, Security Best Practices
 - Monitoring and Logging: AWS CloudWatch
 - DevOps: CI/CD, Git, Jenkins
-- Programming Languages: Python, JavaSctipt, Go
+- Programming Languages: Python, JavaScript, Go
 
 ## 📫 Let's Connect
 
