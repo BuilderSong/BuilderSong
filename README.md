@@ -29,8 +29,8 @@ Here are some of the technologies and skills I work with:
 
 I'm always interested in connecting with fellow cloud enthusiasts and professionals. Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/songsongyu/)
-- Website: [@YourTwitterHandle](https://songsite.net)
+- LinkedIn: [@Song's LinkedIn](https://www.linkedin.com/in/songsongyu/)
+- Website: [@Song's Site](https://songsite.net)
 - Email: yuqidkj@gmail.com
 
 Don't hesitate to explore my repositories to find projects and resources related to cloud architecture. If you have any questions or would like to collaborate, feel free to open an issue or submit a pull request. Let's build amazing cloud solutions together!
